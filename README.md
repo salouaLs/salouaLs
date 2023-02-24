@@ -6,7 +6,7 @@
 
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="https://www.herzing.edu/sites/default/files/2020-09/how-to-become-software-engineer.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://www.herzing.edu/sites/default/files/2020-09/how-to-become-software-engineer.jpg">
+ <img alt="https://www.herzing.edu/sites/default/files/2020-09/how-to-become-software-engineer.jpg">
 </picture>
