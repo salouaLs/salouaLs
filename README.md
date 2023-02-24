@@ -6,7 +6,7 @@
 
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://www.herzing.edu/sites/default/files/2020-09/how-to-become-software-engineer.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://www.herzing.edu/sites/default/files/2020-09/how-to-become-software-engineer.jpg">
- <img alt="https://www.herzing.edu/sites/default/files/2020-09/how-to-become-software-engineer.jpg">
+ <source media="(prefers-color-scheme: dark)" srcset="https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/software-developer_0.jpg?itok=j19BgY7S">
+ <source media="(prefers-color-scheme: light)" srcset="https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/software-developer_0.jpg?itok=j19BgY7S">
+ <img alt="https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/software-developer_0.jpg?itok=j19BgY7S">
 </picture>
