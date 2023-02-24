@@ -8,5 +8,5 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/software-developer_0.jpg?itok=j19BgY7S">
  <source media="(prefers-color-scheme: light)" srcset="https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/software-developer_0.jpg?itok=j19BgY7S">
- <img alt="https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/software-developer_0.jpg?itok=j19BgY7S">
+ <img alt="Cool coding image">
 </picture>
